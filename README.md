@@ -42,3 +42,6 @@ The Flask application supplied in the assignment (`app.py`, `requirements.txt`) 
 
 ### Result
 The image built successfully and the container ran. `curl localhost:5000/health` returned `{"status":"ok"}`.
+
+<img width="890" height="99" alt="image" src="https://github.com/user-attachments/assets/493e1991-4d5e-4224-8828-cbbdb4a147f5" />
+
